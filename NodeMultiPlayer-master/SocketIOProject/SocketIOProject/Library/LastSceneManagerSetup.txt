@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DataScene.unity
+  isLoaded: 1
+  isActive: 1
